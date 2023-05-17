@@ -98,7 +98,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+## SERVER OUTPUT:
 ![OUTPUT](./out.png)
+
+## HOME PAGE:
 ![HOME](./home.png)
 
 ## Result:
